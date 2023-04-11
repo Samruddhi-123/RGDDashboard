@@ -1,0 +1,380 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+.beta-child,
+.left-panel-bg-icon3 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 302px;
+  height: 1024px;
+}
+.beta-child {
+  left: 264px;
+  background-color: var(--color-whitesmoke-100);
+  box-shadow: 17px 8px 6px rgba(0, 0, 0, 0.1);
+  border: 1px solid var(--color-gray);
+  box-sizing: border-box;
+  width: 1176px;
+  height: 60px;
+}
+.dashboard7 {
+  position: absolute;
+  top: 0;
+  left: 32px;
+  font-weight: 600;
+}
+.dashboard-icon3 {
+  position: absolute;
+  top: 1px;
+  left: 0;
+  width: 18px;
+  height: 18px;
+  overflow: hidden;
+}
+.dashboard6 {
+  position: absolute;
+  top: 262px;
+  left: 23px;
+  width: 112px;
+  height: 21px;
+  color: var(--color-deepskyblue);
+}
+.beta-item {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-darkblue);
+  box-shadow: 4px 7px 4px rgba(0, 0, 0, 0.12);
+  width: 270px;
+  height: 221px;
+}
+.room-preferences3 {
+  position: absolute;
+  top: 297px;
+  left: 22px;
+  width: 24px;
+  height: 24px;
+  overflow: hidden;
+}
+.montly-plan3 {
+  top: 108px;
+  left: 332px;
+  color: var(--color-white);
+}
+.div6,
+.montly-plan3,
+.prevalence-india3 {
+  position: absolute;
+  font-weight: 600;
+}
+.prevalence-india3 {
+  top: 22px;
+  left: 32px;
+  display: inline-block;
+  width: 190px;
+  height: 30px;
+}
+.div6 {
+  top: 89px;
+  left: 84px;
+  font-size: var(--font-size-lg);
+}
+.frame-main {
+  position: absolute;
+  width: calc(100% - 1185px);
+  top: 84px;
+  right: 890px;
+  left: 295px;
+  border-radius: var(--br-sm);
+  background-color: var(--color-whitesmoke-200);
+  box-shadow: 0 8px 4px rgba(0, 0, 0, 0.1);
+  height: 178px;
+  text-align: left;
+  font-size: var(--font-size-base);
+  color: var(--color-black);
+  font-family: var(--font-poppins);
+}
+.div7,
+.prevalence-global3 {
+  position: absolute;
+  font-weight: 600;
+}
+.prevalence-global3 {
+  top: 16px;
+  left: 22px;
+  display: inline-block;
+  width: 233px;
+  height: 30px;
+}
+.div7 {
+  top: 89px;
+  left: 18px;
+  font-size: var(--font-size-lg);
+}
+.prevalence-global-parent1 {
+  position: absolute;
+  width: calc(100% - 1185px);
+  top: 87px;
+  right: 610px;
+  left: 575px;
+  border-radius: var(--br-sm);
+  background-color: var(--color-whitesmoke-200);
+  box-shadow: 0 8px 4px rgba(0, 0, 0, 0.1);
+  height: 178px;
+  text-align: left;
+  font-size: var(--font-size-base);
+  color: var(--color-black);
+  font-family: var(--font-poppins);
+}
+.genes3 {
+  top: 16px;
+  left: 84px;
+  display: inline-block;
+  width: 233px;
+  height: 30px;
+}
+.chromosome-111,
+.genes3,
+.location3 {
+  position: absolute;
+  font-weight: 600;
+}
+.location3 {
+  top: 10px;
+  left: 84px;
+  display: inline-block;
+  width: 233px;
+  height: 30px;
+}
+.chromosome-111 {
+  top: 89px;
+  left: 0;
+  font-size: var(--font-size-lg);
+}
+.location-parent1 {
+  position: absolute;
+  width: 100%;
+  top: 0;
+  right: -295px;
+  left: 295px;
+  border-radius: var(--br-sm);
+  background-color: var(--color-whitesmoke-200);
+  box-shadow: 0 8px 4px rgba(0, 0, 0, 0.1);
+  height: 178px;
+  text-align: left;
+  font-size: var(--font-size-base);
+  color: var(--color-black);
+  font-family: var(--font-poppins);
+}
+.globin-gene1 {
+  position: absolute;
+  top: 80px;
+  left: 23px;
+  font-size: var(--font-size-lg);
+  font-weight: 600;
+}
+.genes-parent1 {
+  position: absolute;
+  width: calc(100% - 1185px);
+  top: 89px;
+  right: 327px;
+  left: 858px;
+  border-radius: var(--br-sm);
+  background-color: var(--color-whitesmoke-200);
+  box-shadow: 0 8px 4px rgba(0, 0, 0, 0.1);
+  height: 178px;
+  text-align: left;
+  font-size: var(--font-size-base);
+  color: var(--color-black);
+  font-family: var(--font-poppins);
+}
+.beta-child1,
+.beta-inner {
+  position: absolute;
+  top: 303px;
+  left: 300px;
+  border-radius: var(--br-lg);
+  background-color: var(--color-lavender);
+  box-shadow: 0 8px 4px rgba(0, 0, 0, 0.25);
+  width: 1100px;
+  height: 495px;
+}
+.beta-child1 {
+  top: 816px;
+  left: 308px;
+  height: 113px;
+}
+.beta-child2 {
+  position: absolute;
+  top: 962px;
+  left: 269px;
+  background-color: var(--color-darkblue);
+  width: 1171px;
+  height: 62px;
+}
+.image-1-icon3 {
+  position: absolute;
+  top: 60px;
+  left: 25px;
+  width: 216px;
+  height: 93px;
+  object-fit: cover;
+}
+.beta-child3 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: var(--color-mediumslateblue);
+  position: absolute;
+  top: 309px;
+  left: 0;
+  width: 270px;
+  height: 43px;
+}
+.wi-yzok-190916-1-icon3 {
+  position: absolute;
+  top: 481px;
+  left: 788px;
+  width: 1px;
+  height: 8px;
+  object-fit: cover;
+}
+.wi-yzok-190916-removebg-previe-icon3 {
+  position: absolute;
+  top: 332px;
+  left: 775px;
+  width: 166px;
+  height: 405px;
+  object-fit: cover;
+}
+.beta-child4,
+.beta-child5 {
+  position: absolute;
+  top: 343px;
+  left: 650.6px;
+  width: 138.4px;
+  height: 60.92px;
+}
+.beta-child5 {
+  left: 920px;
+  width: 139.4px;
+}
+.the-legs-and1 {
+  margin-bottom: 0;
+}
+.the-legs-and-the-trunk-get-ste1 {
+  margin: 0;
+  padding-left: var(--padding-sm);
+}
+.the-legs-and-container1 {
+  position: absolute;
+  top: 365px;
+  left: 1052px;
+  font-size: var(--font-inherit);
+  font-family: var(--font-inherit);
+  display: inline-block;
+  width: 331px;
+  height: 346px;
+}
+.beta-thalassemia3 {
+  position: absolute;
+  top: 322px;
+  left: 69px;
+  font-weight: 600;
+}
+.beta-thalassemia4 {
+  position: absolute;
+  top: 11px;
+  left: 310px;
+  font-size: var(--font-size-lg);
+  font-weight: 800;
+  display: inline-block;
+  width: 370px;
+}
+.hemophilia-a4 {
+  position: absolute;
+  top: 368px;
+  left: 84px;
+  font-weight: 600;
+}
+.alpha-thalassemia3,
+.sickle-cell-anemia4 {
+  position: absolute;
+  top: 460px;
+  left: 65px;
+  font-weight: 600;
+}
+.alpha-thalassemia3 {
+  top: 506px;
+  left: 60px;
+}
+.hemophilia-b4 {
+  position: absolute;
+  top: 414px;
+  left: 84px;
+}
+.age-of-onset3,
+.hemophilia-b4 {
+  font-weight: 600;
+}
+.age-of-onset-container3 {
+  position: absolute;
+  top: 843px;
+  left: 321px;
+  font-size: var(--font-size-base);
+  display: inline-block;
+  width: 1043px;
+}
+.clinical-symptoms3,
+.current-diagnostics3 {
+  position: absolute;
+  top: 308px;
+  left: 321px;
+  font-size: var(--font-size-lg);
+  font-weight: 600;
+}
+.clinical-symptoms3 {
+  top: 302px;
+  left: 1069px;
+}
+.approx-cost-of3,
+.hematologic-diagnosis-followed,
+.rs-3324 {
+  position: absolute;
+  left: 335px;
+  font-size: var(--font-size-base);
+}
+.hematologic-diagnosis-followed {
+  top: 360px;
+  color: inherit;
+  display: inline-block;
+  width: 297px;
+  text-decoration: none;
+}
+.approx-cost-of3,
+.rs-3324 {
+  top: 662px;
+}
+.approx-cost-of3 {
+  top: 566px;
+  left: 321px;
+  font-size: var(--font-size-lg);
+  font-weight: 600;
+  display: inline-block;
+  width: 352px;
+}
+.beta {
+  position: relative;
+  border-radius: var(--br-md);
+  background-color: var(--color-white);
+  box-shadow: -14px 10px 8px 7px rgba(0, 0, 0, 0.04);
+  width: 100%;
+  height: 1024px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-xs);
+  color: var(--color-black);
+  font-family: var(--font-poppins);
+}
